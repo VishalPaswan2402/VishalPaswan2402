@@ -40,9 +40,9 @@ I'm a passionate web developer who loves creating interactive and visually appea
 
 ### 📊 GitHub Stats & Contributions
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalPaswan2402&theme=radical" alt="GitHub Streak Stats" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalPaswan2402&theme=radical" alt="GitHub Streak Stats" width="45%"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalPaswan2402&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalPaswan2402&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </div>
 
 ---
