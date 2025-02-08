@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Courier New', monospace; font-size: 40px; font-weight: bold;">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vishal+Paswan+;Welcome+to+my+GitHub+Profile!;Happy+Coding!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vishal+Paswan+;Welcome+to+my+Profile!;Happy+Coding!" />
 </h1>
 
 <p align="center">
