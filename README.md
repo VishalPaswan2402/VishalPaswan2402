@@ -32,8 +32,8 @@ I'm a passionate web developer who loves creating interactive and visually appea
   <img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="25"/>
 </p>
 
-- 🎯 **Interests:** Full-Stack Development 
-- 📚 **Currently Learning:** DSA in java  
+- 🎯 **Interests:** Full-Stack Development  
+- 📚 **Currently Learning:** DSA in Java  
 - 🛠 **Projects:** Attendance Tracker, LeetCode-inspired website, Share Where.
 
 ---
@@ -52,12 +52,21 @@ I'm a passionate web developer who loves creating interactive and visually appea
   <table>
     <tr>
       <td align="center" width="50%">
+        <img src="https://img.icons8.com/ios/50/share.png" width="50" height="50"/>
+        <br>
+        <b>📤 Share Where</b>
+        <br>
+        A file-sharing platform where users can upload and download files using secret codes.
+      </td>
+      <td align="center" width="50%">
         <img src="https://img.icons8.com/ios/50/calendar--v1.png" width="50" height="50"/>
         <br>
         <b>🏫 Attendance Tracker</b>
         <br>
         A web-based attendance tracking system for students and faculty.
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
         <img src="https://img.icons8.com/ios/50/code.png" width="50" height="50"/>
         <br>
@@ -65,14 +74,21 @@ I'm a passionate web developer who loves creating interactive and visually appea
         <br>
         A coding platform inspired by LeetCode with various challenges.
       </td>
-    </tr>
-    <tr>
       <td align="center" width="50%">
         <img src="https://img.icons8.com/ios/50/document.png" width="50" height="50"/>
         <br>
         <b>📝 Text Formatter</b>
         <br>
         A web app to format and modify text with various styling options.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/ios/50/dice.png" width="50" height="50"/>
+        <br>
+        <b>🎲 Dice Game</b>
+        <br>
+        A simple and interactive dice game built using JavaScript.
       </td>
       <td align="center" width="50%">
         <img src="https://img.icons8.com/ios/50/clapperboard.png" width="50" height="50"/>
