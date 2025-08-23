@@ -38,11 +38,13 @@ I'm a passionate web developer who loves creating interactive and visually appea
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 GitHub & LeetCode Stats & Contributions
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalPaswan2402&theme=radical" alt="GitHub Streak Stats" width="60%"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalPaswan2402&layout=compact&theme=radical" alt="Top Languages" width="60%"/>
+  <br>
+  <img src="https://leetcard.jacoblin.cool/vishalPaswan24?theme=radical" alt="LeetCode Stats" width="60%"/>
 </div>
 
 ---
