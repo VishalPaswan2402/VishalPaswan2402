@@ -116,7 +116,7 @@ I'm a passionate web developer who loves creating interactive and visually appea
   <a href="https://x.com/VishalPaswan24">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/imvishal2402">
+  <a href="https://www.instagram.com/ofcoursevishal">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://vishalpaswan-portfolio-page.onrender.com/">
