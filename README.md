@@ -6,17 +6,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url/banner.gif" alt="MERN Stack Developer" width="100%"/>
-</p>
+<h2 align="center">⚡ MERN Stack Developer | Web Enthusiast | DSA with JAVA | Quick Learner ⚡</h2>
 
-I'm a passionate web developer who loves creating interactive and visually appealing digital experiences. Currently, I'm working on MERN stack projects and exploring advanced web technologies.
+- 🌟 I'm a fresher web developer passionate about building interactive, user-friendly, and visually appealing web applications.
+- 🌱 Currently leveling up my skills in JavaScript, React, Node.js, Express, and MongoDB, DSA.
+- 🎯 My goal is to become a full-stack engineer and work on scalable, real-world projects.
+- 📚 I love exploring new tech, solving coding challenges, and contributing to open-source projects.
+- 💻 **Interests :** Full-Stack Development  
+- 🧠 **Currently Learning :** DSA with Java  
+- 🛠 **Projects :** Attendance Tracker, LeetCode-inspired website, Share Where.
 
----
-
-### 🚀 About Me
-
-- 💻 **Tech Stack:**  
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
@@ -31,10 +30,6 @@ I'm a passionate web developer who loves creating interactive and visually appea
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="25"/>
 </p>
-
-- 🎯 **Interests:** Full-Stack Development  
-- 📚 **Currently Learning:** DSA in Java  
-- 🛠 **Projects:** Attendance Tracker, LeetCode-inspired website, Share Where.
 
 ---
 
